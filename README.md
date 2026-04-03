@@ -9,8 +9,11 @@
 Включение рабочих узлов:  
 ![Node_add](img/node_add.jpg)
 
+Вывод команды kubectl get no:
+![Node_not_ready](img/node_not_ready.jpg)
+
 Установка cni плагина Calico:  
 ![Calico](img/calico.jpg)
 
-Вывод команды kubectl get no:  
+Вывод команды kubectl get no после установки cni-плагина:  
 ![Node_list](img/node_list.jpg)
